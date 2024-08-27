@@ -1,0 +1,51 @@
+body{
+  background-color: beige;
+  margin-right: 150px; 
+  margin-left: 150px;
+  margin-top: 70px; 
+  color: white;
+}
+h1{
+  background-color: red;
+  background-image: linear-gradient(red,blue);
+  margin-right: 100px;
+  color: white;
+  font-family:Oswald;
+  }
+
+p{
+  margin-right: 70px;
+}
+
+
+.uno{
+  font-family:monospace;
+}
+a {
+  color: hot pink;
+}
+/* unvisited link */
+a:link {
+  color: hot;
+}
+/* visited link */
+a:visited {
+  color: hot;
+}
+/* mouse over link */
+a:hover {
+  color: orange;
+}
+/* selected link */
+a:active {
+  color: blue;
+}
+a {
+  text-decoration: none;
+}
+
+body {
+  background-image: url("https://www.bbva.com/wp-content/uploads/2021/04/BBVA-open-finance-banking-innovacion-informe-belvo.jpg");
+}
+
+/*holii*/
